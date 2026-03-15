@@ -40,11 +40,6 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 
 ## PROGRAM
-
-### Name: Pragatheeshraaj D
-
-### Register Number: 212224230199
-
 ```python
 import torch
 import torch.nn as nn
