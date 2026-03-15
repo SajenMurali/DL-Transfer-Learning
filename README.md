@@ -269,20 +269,20 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="1586" height="734" alt="image" src="https://github.com/user-attachments/assets/75fc29ef-b5eb-4cf5-8b46-73460cde80cf" />
+![image alt](https://github.com/SajenMurali/DL-Transfer-Learning/blob/d8a7b79233ef11741e3475aba2b864b3a2f1c0d5/Screenshot%202026-03-15%20213416.png)
 
 ## Confusion Matrix
 
-<img width="1540" height="743" alt="image" src="https://github.com/user-attachments/assets/85c464bc-e655-4157-bd99-77ada201177a" />
+![image alt](https://github.com/SajenMurali/DL-Transfer-Learning/blob/d8a7b79233ef11741e3475aba2b864b3a2f1c0d5/Screenshot%202026-03-15%20213429.png)
 
 ## Classification Report
 
-<img width="1554" height="252" alt="image" src="https://github.com/user-attachments/assets/456e2139-4259-41e1-863e-b2abd37b8309" />
+![image alt](https://github.com/SajenMurali/DL-Transfer-Learning/blob/d8a7b79233ef11741e3475aba2b864b3a2f1c0d5/Screenshot%202026-03-15%20213439.png)
 
 ### New Sample Data Prediction
-<img width="1297" height="489" alt="image" src="https://github.com/user-attachments/assets/b843e07b-49f4-4a2f-99ed-d1dac7fd84e6" />
+![image alt](https://github.com/SajenMurali/DL-Transfer-Learning/blob/d8a7b79233ef11741e3475aba2b864b3a2f1c0d5/Screenshot%202026-03-15%20213450.png)
 
-<img width="1329" height="492" alt="image" src="https://github.com/user-attachments/assets/8047981d-27f5-44b0-a03b-768fe6ec9c0a" />
+![image alt](https://github.com/SajenMurali/DL-Transfer-Learning/blob/d8a7b79233ef11741e3475aba2b864b3a2f1c0d5/Screenshot%202026-03-15%20213457.png)
 
 ### Result:
 This program has been executed successfully.
